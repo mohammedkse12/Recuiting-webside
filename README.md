@@ -1,2 +1,0 @@
-# Recuiting-webside
-University project
